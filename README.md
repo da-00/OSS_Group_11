@@ -1,12 +1,9 @@
 # Self-Stablilzing Platform
 In unstable environments with vibration or uneven terrain, sensitive equipment like cameras, drones, and robotic systems require stabilization to maintain precision and prevent damage.
 A self-stabilizing platform solves this by detecting motion through sensors and automatically correcting it using servo motors.
-![image](https://github.com/user-attachments/assets/122dbfb1-b78f-46ec-8873-8febcf9004ad) 
+
 ![image](https://github.com/user-attachments/assets/9217e74b-f932-431d-b3a8-4e4d283c71e0)
-
-
-
-
+![image](https://github.com/user-attachments/assets/122dbfb1-b78f-46ec-8873-8febcf9004ad) 
 
 # Key Features
 Gyroscope Sensor: Measures real-time motion (pitch, yaw, roll).
