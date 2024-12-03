@@ -22,3 +22,5 @@ It ensures high precision by stabilizing all three axes (pitch, yaw, roll) in re
 
 # Reference
 https://howtomechatronics.com/projects/diy-arduino-gimbal-self-stabilizing-platform/
+https://www.electromaker.io/project/view/arduino-based-self-stabilising-platform?srsltid=AfmBOopZrDM_UEU7sFXzwSELbgBO2YVgjZWLpByfEMUdhdk7BIFOzg0P
+https://ieeexplore.ieee.org/document/6843648
