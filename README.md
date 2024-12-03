@@ -1,7 +1,8 @@
 # Self-Stablilzing Platform
 In unstable environments with vibration or uneven terrain, sensitive equipment like cameras, drones, and robotic systems require stabilization to maintain precision and prevent damage.
 A self-stabilizing platform solves this by detecting motion through sensors and automatically correcting it using servo motors.
-![image](https://github.com/user-attachments/assets/0794b4b8-54ab-449a-b564-e9375c87a0ba) ![image](https://github.com/user-attachments/assets/122dbfb1-b78f-46ec-8873-8febcf9004ad)
+![image](https://github.com/user-attachments/assets/122dbfb1-b78f-46ec-8873-8febcf9004ad) ![Uploading image.png…]()
+
 
 
 
