@@ -10,6 +10,8 @@ Servo Motors: Execute precise physical corrections based on commands.
 # Structural Design
 The platform features three independent axes converging at a single point for full rotational freedom. 
 Servo motors are positioned near these axes with L-shaped connectors, ensuring smooth, non-interfering adjustments.
+![image]![image](https://github.com/user-attachments/assets/7d021f35-ea7f-49d8-8842-4381419619b1)
+
 
 # About the Code
 This Python-based implementation integrates sensors, microcontrollers, and servo motors to detect and correct motion. 
